@@ -15,7 +15,7 @@ This project presents SignSense, a convolutional neural network (CNN) model desi
 
 ## Dataset
 
-The dataset used for training the model is an original dataset created by us, consisting of 13,000 Indian Sign Language (ISL) images. Each sign has approximately 500 images, providing a diverse range of hand gestures representing different letters in Indian Sign Language. The dataset has been preprocessed with Gaussian blurring, grayscale conversion, and thresholding to enhance the images and reduce computational complexity. You can find our dataset on Kaggle [here](#https://www.kaggle.com/datasets/dhananjayka/isl-dataset-spit).
+The dataset used for training the model is an original dataset created by us, consisting of 13,000 Indian Sign Language (ISL) images. Each sign has approximately 500 images, providing a diverse range of hand gestures representing different letters in Indian Sign Language. The dataset has been preprocessed with Gaussian blurring, grayscale conversion, and thresholding to enhance the images and reduce computational complexity.
 
 ## Preprocessing
 
@@ -44,6 +44,6 @@ This architecture enables the model to learn hierarchical representations of fea
 
 ## Links
 
-- [Dataset on Kaggle](#https://www.kaggle.com/datasets/dhananjayka/isl-dataset-spit)
-- [GitHub Repository](#https://github.com/shreyarathod/ISL-final-model)
+- Dataset: https://www.kaggle.com/datasets/dhananjayka/isl-dataset-spit
+
 
