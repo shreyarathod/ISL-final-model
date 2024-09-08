@@ -41,6 +41,11 @@ The model architecture consists of several key components:
 
 This architecture enables the model to learn hierarchical representations of features from the input images and make accurate predictions about the hand gestures.
 
+### Team Project Cotributors : 
+ - [**Shreya Rathod**](https://github.com/shreyarathod)
+ - [**Riva Rodrigues**](https://github.com/Riva-Rodrigues)
+ - [**Nirmitee Sarode**](https://github.com/NirmiteeS)
+
 
 ## Links
 
