@@ -45,7 +45,7 @@ This architecture enables the model to learn hierarchical representations of fea
 
 - Dataset: https://www.kaggle.com/datasets/dhananjayka/isl-dataset-spit
 
-## Team Project Cotributors : 
+## Team Project Contributors : 
  - [**Shreya Rathod**](https://github.com/shreyarathod)
  - [**Riva Rodrigues**](https://github.com/Riva-Rodrigues)
  - [**Nirmitee Sarode**](https://github.com/NirmiteeS)
